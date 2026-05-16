@@ -164,14 +164,14 @@ export default function Hero() {
                   rounded-full
                   border
                   border-slate-300
-                  bg-white
+                  bg-green-500
                   px-7
                   py-4
                   text-sm
                   font-semibold
-                  text-slate-700
+                  text-black
                   transition
-                  hover:bg-slate-100
+                  hover:bg-green-600
                 "
               >
                 <MessageCircle size={18} />
