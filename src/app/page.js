@@ -8,6 +8,7 @@ import PricingTimingSection from "@/components/sections/PricingTimingSection"
 import ContactSection from "@/components/sections/ContactSection";
 import FAQSection from "@/components/sections/FAQSection";
 import Footer from "@/components/sections/Footer";
+import FloatingButtons from "@/components/FloatingButtons";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
     <ContactSection/>
     <FAQSection/>
     <Footer/>
+    <FloatingButtons/>
     </>
   );
 }

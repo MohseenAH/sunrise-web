@@ -11,7 +11,7 @@ export default function Hero() {
     <>
       {/* HERO SECTION */}
 
-      <section
+      <section id="home"
         className="
           relative
           overflow-hidden
